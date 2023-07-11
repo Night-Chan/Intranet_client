@@ -1,5 +1,5 @@
 lmao this is kinda meant for the students of switzerland who use like the intranet.tam.ch site to get to their schedule without having to log in every single time.
-roadmap is just to add customization as well as lesson info to all the lessons when you click on them
+roadmap is just to add customization as well as lesson info to all the lessons when you click on them, plus advanced settings for loading the site faster
 
 --
 
